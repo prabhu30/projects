@@ -1,3 +1,3 @@
 # My Projects
-- A Website, designed to put up all the work i have done in the form of Projects <br>
+- I have built this project using bootstrap to showcase all my projects 😜
 - You can view it here - [Link](https://prabhu30.github.io/projects)
